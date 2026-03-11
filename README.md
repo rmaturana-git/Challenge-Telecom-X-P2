@@ -14,10 +14,8 @@ El enfoque técnico se centró en maximizar el **Recall** (sensibilidad), garant
 
 * `TelecomX_LATAM-Parte-2.ipynb`: Cuaderno principal con el flujo completo de ciencia de datos.
 * `datos_tratados.csv`: Datos originales.
-* `churn_processed.csv`: Dataset final tras limpieza, codificación y balanceo.
-
-
-* `visuals/`: Carpeta con los gráficos de correlación, matrices de confusión e importancia de variables.
+* `churn_processed_test.csv`: Dataset final con datos de prueba.
+* `churn_processed_train.csv`: Dataset final con datos de entrenamiento.
 * `README.md`: Documentación actual.
 
 ---
@@ -83,9 +81,17 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-**Arquitecto de Soluciones:** Rodrigo
+**Análisis realizado por:**
+  - Rodrigo Maturana
+
+**Rol:** 
+  - AI Solutions Architect / Junior Data Scientist
+
+**Contacto**
+  - rmaturanad@gmail.com
+  - www.linkedin.com/in/rodrigo-maturana-donoso
+    
 **Fecha:** Marzo 2026
 
 ---
 
-**¿Te gustaría que añada una sección de "Casos de Uso" al README que explique cómo el equipo de marketing puede usar las predicciones del modelo en el día a día?**
